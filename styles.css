@@ -10,7 +10,7 @@
 }
  .box{
  background-color: aqua;
- width:214vh;
+ 
  height:10vh;
  display: flex;
  flex-direction:row;
@@ -26,9 +26,9 @@
     justify-content:space-around;
 }
 .box2{
-    background-color: rgb(6, 95, 95);
+    /* background-color: rgb(6, 95, 95); */
     margin:3px;
-    width: 214vh;
+    width: 100vhw;
     height: 89vh;
     display: flex;
     flex-direction:row;
@@ -36,20 +36,20 @@
 .boxx{
     background-color: crimson;
     margin: 2px;
-    width:120vh;
+    width:15vw;
 
 }
 #bos{
- background-color: dodgerblue;
+ /* background-color: dodgerblue; */
  width: 200vh;
 }
-#box{
+/* #box{
     background-color:fuchsia;
-    width: 170vh;
-}
+    width: 90vw;
+} */
 .boxes{
     background-color:white;
-    width:20vh;
+    width:10vw;
     height: 5vh;
     display: flex;
     flex-direction: row;
@@ -59,12 +59,12 @@
   }
   #boxe{
     background-color:fuchsia;
-    width: 170vh;
+    width: 84vw;
     height: 39vh;
-    margin: 3px;
+    margin: 4px;
 }
 .boxe{
     background-color: darkgrey;
-    width: 42vh;
-    height: 18vw;
+    width: 20vw;
+    height: 39vh;
 }
